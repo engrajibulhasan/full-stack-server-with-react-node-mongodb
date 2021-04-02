@@ -10,7 +10,7 @@ Monis Collection is a Simple E-commerce App
 
 
 
-[Client Side Link ] (https://bengal-rider.web.app/)
+[client Side ink] (https://bengal-rider.web.app/)
 
 ------------
 With Thanks 
