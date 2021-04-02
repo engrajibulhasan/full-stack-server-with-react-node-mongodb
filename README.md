@@ -8,9 +8,7 @@ Monis Collection is a Simple E-commerce App
 - Its Back End
 - Back End Developed By Node and MongoDB
 
-
-
-[client Side ink] (https://bengal-rider.web.app/)
+[client git Link](https://github.com/Porgramming-Hero-web-course/full-stack-client-appsmakerbd)
 
 ------------
 With Thanks 
